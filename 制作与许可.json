@@ -1,0 +1,477 @@
+{
+  "game_title": "我们都有问题",
+  "title": "制作名单与许可",
+  "edition": "改版 v5 · 制作中试玩",
+  "production": [
+    {
+      "role": "创作方向与参考材料",
+      "credit": "项目作者"
+    },
+    {
+      "role": "叙事、交互、程序与视听整合",
+      "credit": "项目作者与 Codex 制作协作"
+    },
+    {
+      "role": "人物、场景与原创试片画面",
+      "credit": "依据授权参考生成、修订与逐图检查"
+    }
+  ],
+  "notes": [
+    "故事、对白与画面经过改编。游戏中的剪辑试片为原创虚构画面，照片及原始文档仅作制作参考。",
+    "本名单记录当前试玩版的制作来源；全版整合与验收仍在继续。"
+  ],
+  "sound_notes": [
+    "配乐、环境声及事件音效由本项目编写并在本地合成，声音素材各有独立用途。",
+    "试片旁白使用Kokoro-82M v1.0在本机合成；文字为原创虚构，非人物原声。",
+    "模型按官方仓库Apache-2.0许可使用；同仓库声线目录的许可覆盖按整体仓库推断，相关来源及限制保存在制作记录。"
+  ],
+  "fonts": [
+    {
+      "name": "Source Han Sans SC",
+      "release": "2.005R",
+      "copyright": "Copyright 2014-2025 Adobe",
+      "license": "SIL Open Font License 1.1",
+      "license_file": "assets/fonts/source-han-sans-LICENSE.txt",
+      "source": "https://github.com/adobe-fonts/source-han-sans",
+      "modification": "按本游戏所需文字制作子集，并将修改版字体内部名称改为 Problems Game Sans Regular。",
+      "license_text": "Copyright 2014-2025 Adobe (http://www.adobe.com/), with Reserved Font\nName 'Source'. Source is a trademark of Adobe in the United States\nand/or other countries.\n\nThis Font Software is licensed under the SIL Open Font License,\nVersion 1.1.\n\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL\n\n-----------------------------------------------------------\nSIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\n-----------------------------------------------------------\n\nPREAMBLE\nThe goals of the Open Font License (OFL) are to stimulate worldwide\ndevelopment of collaborative font projects, to support the font\ncreation efforts of academic and linguistic communities, and to\nprovide a free and open framework in which fonts may be shared and\nimproved in partnership with others.\n\nThe OFL allows the licensed fonts to be used, studied, modified and\nredistributed freely as long as they are not sold by themselves. The\nfonts, including any derivative works, can be bundled, embedded,\nredistributed and/or sold with any software provided that any reserved\nnames are not used by derivative works. The fonts and derivatives,\nhowever, cannot be released under any other type of license. The\nrequirement for fonts to remain under this license does not apply to\nany document created using the fonts or their derivatives.\n\nDEFINITIONS\n\"Font Software\" refers to the set of files released by the Copyright\nHolder(s) under this license and clearly marked as such. This may\ninclude source files, build scripts and documentation.\n\n\"Reserved Font Name\" refers to any names specified as such after the\ncopyright statement(s).\n\n\"Original Version\" refers to the collection of Font Software\ncomponents as distributed by the Copyright Holder(s).\n\n\"Modified Version\" refers to any derivative made by adding to,\ndeleting, or substituting -- in part or in whole -- any of the\ncomponents of the Original Version, by changing formats or by porting\nthe Font Software to a new environment.\n\n\"Author\" refers to any designer, engineer, programmer, technical\nwriter or other person who contributed to the Font Software.\n\nPERMISSION & CONDITIONS\nPermission is hereby granted, free of charge, to any person obtaining\na copy of the Font Software, to use, study, copy, merge, embed,\nmodify, redistribute, and sell modified and unmodified copies of the\nFont Software, subject to the following conditions:\n\n1) Neither the Font Software nor any of its individual components, in\nOriginal or Modified Versions, may be sold by itself.\n\n2) Original or Modified Versions of the Font Software may be bundled,\nredistributed and/or sold with any software, provided that each copy\ncontains the above copyright notice and this license. These can be\nincluded either as stand-alone text files, human-readable headers or\nin the appropriate machine-readable metadata fields within text or\nbinary files as long as those fields can be easily viewed by the user.\n\n3) No Modified Version of the Font Software may use the Reserved Font\nName(s) unless explicit written permission is granted by the\ncorresponding Copyright Holder. This restriction only applies to the\nprimary font name as presented to the users.\n\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font\nSoftware shall not be used to promote, endorse or advertise any\nModified Version, except to acknowledge the contribution(s) of the\nCopyright Holder(s) and the Author(s) or with their explicit written\npermission.\n\n5) The Font Software, modified or unmodified, in part or in whole,\nmust be distributed entirely under this license, and must not be\ndistributed under any other license. The requirement for fonts to\nremain under this license does not apply to any document created using\nthe Font Software.\n\nTERMINATION\nThis license becomes null and void if any of the above conditions are\nnot met.\n\nDISCLAIMER\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\nOF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE\nCOPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\nINCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL\nDAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\nFROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM\nOTHER DEALINGS IN THE FONT SOFTWARE.\n"
+    },
+    {
+      "name": "Source Han Serif SC",
+      "release": "2.003R",
+      "copyright": "Copyright 2017-2022 Adobe",
+      "license": "SIL Open Font License 1.1",
+      "license_file": "assets/fonts/source-han-serif-LICENSE.txt",
+      "source": "https://github.com/adobe-fonts/source-han-serif",
+      "modification": "按本游戏所需文字制作子集，并将修改版字体内部名称改为 Problems Game Serif SemiBold。",
+      "license_text": "Copyright 2017-2022 Adobe (http://www.adobe.com/), with Reserved Font\nName 'Source'. Source is a trademark of Adobe in the United States\nand/or other countries.\n\nThis Font Software is licensed under the SIL Open Font License,\nVersion 1.1.\n\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL\n\n-----------------------------------------------------------\nSIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\n-----------------------------------------------------------\n\nPREAMBLE\nThe goals of the Open Font License (OFL) are to stimulate worldwide\ndevelopment of collaborative font projects, to support the font\ncreation efforts of academic and linguistic communities, and to\nprovide a free and open framework in which fonts may be shared and\nimproved in partnership with others.\n\nThe OFL allows the licensed fonts to be used, studied, modified and\nredistributed freely as long as they are not sold by themselves. The\nfonts, including any derivative works, can be bundled, embedded,\nredistributed and/or sold with any software provided that any reserved\nnames are not used by derivative works. The fonts and derivatives,\nhowever, cannot be released under any other type of license. The\nrequirement for fonts to remain under this license does not apply to\nany document created using the fonts or their derivatives.\n\nDEFINITIONS\n\"Font Software\" refers to the set of files released by the Copyright\nHolder(s) under this license and clearly marked as such. This may\ninclude source files, build scripts and documentation.\n\n\"Reserved Font Name\" refers to any names specified as such after the\ncopyright statement(s).\n\n\"Original Version\" refers to the collection of Font Software\ncomponents as distributed by the Copyright Holder(s).\n\n\"Modified Version\" refers to any derivative made by adding to,\ndeleting, or substituting -- in part or in whole -- any of the\ncomponents of the Original Version, by changing formats or by porting\nthe Font Software to a new environment.\n\n\"Author\" refers to any designer, engineer, programmer, technical\nwriter or other person who contributed to the Font Software.\n\nPERMISSION & CONDITIONS\nPermission is hereby granted, free of charge, to any person obtaining\na copy of the Font Software, to use, study, copy, merge, embed,\nmodify, redistribute, and sell modified and unmodified copies of the\nFont Software, subject to the following conditions:\n\n1) Neither the Font Software nor any of its individual components, in\nOriginal or Modified Versions, may be sold by itself.\n\n2) Original or Modified Versions of the Font Software may be bundled,\nredistributed and/or sold with any software, provided that each copy\ncontains the above copyright notice and this license. These can be\nincluded either as stand-alone text files, human-readable headers or\nin the appropriate machine-readable metadata fields within text or\nbinary files as long as those fields can be easily viewed by the user.\n\n3) No Modified Version of the Font Software may use the Reserved Font\nName(s) unless explicit written permission is granted by the\ncorresponding Copyright Holder. This restriction only applies to the\nprimary font name as presented to the users.\n\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font\nSoftware shall not be used to promote, endorse or advertise any\nModified Version, except to acknowledge the contribution(s) of the\nCopyright Holder(s) and the Author(s) or with their explicit written\npermission.\n\n5) The Font Software, modified or unmodified, in part or in whole,\nmust be distributed entirely under this license, and must not be\ndistributed under any other license. The requirement for fonts to\nremain under this license does not apply to any document created using\nthe Font Software.\n\nTERMINATION\nThis license becomes null and void if any of the above conditions are\nnot met.\n\nDISCLAIMER\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\nOF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE\nCOPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\nINCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL\nDAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\nFROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM\nOTHER DEALINGS IN THE FONT SOFTWARE.\n"
+    }
+  ],
+  "rights_note": "字体依所附完整许可分发；制作来源记录不等同于对其他游戏资产授予额外使用许可。",
+  "sound_licenses": [
+    {
+      "name": "Kokoro-82M v1.0 模型许可",
+      "license": "Apache-2.0",
+      "source": "https://huggingface.co/hexgrad/Kokoro-82M/tree/f3ff3571791e39611d31c381e3a41a3af07b4987",
+      "license_file": "assets/licenses/Kokoro-Apache-2.0.txt",
+      "license_text": "\n                                 Apache License\n                           Version 2.0, January 2004\n                        http://www.apache.org/licenses/\n\n   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\n\n   1. Definitions.\n\n      \"License\" shall mean the terms and conditions for use, reproduction,\n      and distribution as defined by Sections 1 through 9 of this document.\n\n      \"Licensor\" shall mean the copyright owner or entity authorized by\n      the copyright owner that is granting the License.\n\n      \"Legal Entity\" shall mean the union of the acting entity and all\n      other entities that control, are controlled by, or are under common\n      control with that entity. For the purposes of this definition,\n      \"control\" means (i) the power, direct or indirect, to cause the\n      direction or management of such entity, whether by contract or\n      otherwise, or (ii) ownership of fifty percent (50%) or more of the\n      outstanding shares, or (iii) beneficial ownership of such entity.\n\n      \"You\" (or \"Your\") shall mean an individual or Legal Entity\n      exercising permissions granted by this License.\n\n      \"Source\" form shall mean the preferred form for making modifications,\n      including but not limited to software source code, documentation\n      source, and configuration files.\n\n      \"Object\" form shall mean any form resulting from mechanical\n      transformation or translation of a Source form, including but\n      not limited to compiled object code, generated documentation,\n      and conversions to other media types.\n\n      \"Work\" shall mean the work of authorship, whether in Source or\n      Object form, made available under the License, as indicated by a\n      copyright notice that is included in or attached to the work\n      (an example is provided in the Appendix below).\n\n      \"Derivative Works\" shall mean any work, whether in Source or Object\n      form, that is based on (or derived from) the Work and for which the\n      editorial revisions, annotations, elaborations, or other modifications\n      represent, as a whole, an original work of authorship. For the purposes\n      of this License, Derivative Works shall not include works that remain\n      separable from, or merely link (or bind by name) to the interfaces of,\n      the Work and Derivative Works thereof.\n\n      \"Contribution\" shall mean any work of authorship, including\n      the original version of the Work and any modifications or additions\n      to that Work or Derivative Works thereof, that is intentionally\n      submitted to Licensor for inclusion in the Work by the copyright owner\n      or by an individual or Legal Entity authorized to submit on behalf of\n      the copyright owner. For the purposes of this definition, \"submitted\"\n      means any form of electronic, verbal, or written communication sent\n      to the Licensor or its representatives, including but not limited to\n      communication on electronic mailing lists, source code control systems,\n      and issue tracking systems that are managed by, or on behalf of, the\n      Licensor for the purpose of discussing and improving the Work, but\n      excluding communication that is conspicuously marked or otherwise\n      designated in writing by the copyright owner as \"Not a Contribution.\"\n\n      \"Contributor\" shall mean Licensor and any individual or Legal Entity\n      on behalf of whom a Contribution has been received by Licensor and\n      subsequently incorporated within the Work.\n\n   2. Grant of Copyright License. Subject to the terms and conditions of\n      this License, each Contributor hereby grants to You a perpetual,\n      worldwide, non-exclusive, no-charge, royalty-free, irrevocable\n      copyright license to reproduce, prepare Derivative Works of,\n      publicly display, publicly perform, sublicense, and distribute the\n      Work and such Derivative Works in Source or Object form.\n\n   3. Grant of Patent License. Subject to the terms and conditions of\n      this License, each Contributor hereby grants to You a perpetual,\n      worldwide, non-exclusive, no-charge, royalty-free, irrevocable\n      (except as stated in this section) patent license to make, have made,\n      use, offer to sell, sell, import, and otherwise transfer the Work,\n      where such license applies only to those patent claims licensable\n      by such Contributor that are necessarily infringed by their\n      Contribution(s) alone or by combination of their Contribution(s)\n      with the Work to which such Contribution(s) was submitted. If You\n      institute patent litigation against any entity (including a\n      cross-claim or counterclaim in a lawsuit) alleging that the Work\n      or a Contribution incorporated within the Work constitutes direct\n      or contributory patent infringement, then any patent licenses\n      granted to You under this License for that Work shall terminate\n      as of the date such litigation is filed.\n\n   4. Redistribution. You may reproduce and distribute copies of the\n      Work or Derivative Works thereof in any medium, with or without\n      modifications, and in Source or Object form, provided that You\n      meet the following conditions:\n\n      (a) You must give any other recipients of the Work or\n          Derivative Works a copy of this License; and\n\n      (b) You must cause any modified files to carry prominent notices\n          stating that You changed the files; and\n\n      (c) You must retain, in the Source form of any Derivative Works\n          that You distribute, all copyright, patent, trademark, and\n          attribution notices from the Source form of the Work,\n          excluding those notices that do not pertain to any part of\n          the Derivative Works; and\n\n      (d) If the Work includes a \"NOTICE\" text file as part of its\n          distribution, then any Derivative Works that You distribute must\n          include a readable copy of the attribution notices contained\n          within such NOTICE file, excluding those notices that do not\n          pertain to any part of the Derivative Works, in at least one\n          of the following places: within a NOTICE text file distributed\n          as part of the Derivative Works; within the Source form or\n          documentation, if provided along with the Derivative Works; or,\n          within a display generated by the Derivative Works, if and\n          wherever such third-party notices normally appear. The contents\n          of the NOTICE file are for informational purposes only and\n          do not modify the License. You may add Your own attribution\n          notices within Derivative Works that You distribute, alongside\n          or as an addendum to the NOTICE text from the Work, provided\n          that such additional attribution notices cannot be construed\n          as modifying the License.\n\n      You may add Your own copyright statement to Your modifications and\n      may provide additional or different license terms and conditions\n      for use, reproduction, or distribution of Your modifications, or\n      for any such Derivative Works as a whole, provided Your use,\n      reproduction, and distribution of the Work otherwise complies with\n      the conditions stated in this License.\n\n   5. Submission of Contributions. Unless You explicitly state otherwise,\n      any Contribution intentionally submitted for inclusion in the Work\n      by You to the Licensor shall be under the terms and conditions of\n      this License, without any additional terms or conditions.\n      Notwithstanding the above, nothing herein shall supersede or modify\n      the terms of any separate license agreement you may have executed\n      with Licensor regarding such Contributions.\n\n   6. Trademarks. This License does not grant permission to use the trade\n      names, trademarks, service marks, or product names of the Licensor,\n      except as required for reasonable and customary use in describing the\n      origin of the Work and reproducing the content of the NOTICE file.\n\n   7. Disclaimer of Warranty. Unless required by applicable law or\n      agreed to in writing, Licensor provides the Work (and each\n      Contributor provides its Contributions) on an \"AS IS\" BASIS,\n      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or\n      implied, including, without limitation, any warranties or conditions\n      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A\n      PARTICULAR PURPOSE. You are solely responsible for determining the\n      appropriateness of using or redistributing the Work and assume any\n      risks associated with Your exercise of permissions under this License.\n\n   8. Limitation of Liability. In no event and under no legal theory,\n      whether in tort (including negligence), contract, or otherwise,\n      unless required by applicable law (such as deliberate and grossly\n      negligent acts) or agreed to in writing, shall any Contributor be\n      liable to You for damages, including any direct, indirect, special,\n      incidental, or consequential damages of any character arising as a\n      result of this License or out of the use or inability to use the\n      Work (including but not limited to damages for loss of goodwill,\n      work stoppage, computer failure or malfunction, or any and all\n      other commercial damages or losses), even if such Contributor\n      has been advised of the possibility of such damages.\n\n   9. Accepting Warranty or Additional Liability. While redistributing\n      the Work or Derivative Works thereof, You may choose to offer,\n      and charge a fee for, acceptance of support, warranty, indemnity,\n      or other liability obligations and/or rights consistent with this\n      License. However, in accepting such obligations, You may act only\n      on Your own behalf and on Your sole responsibility, not on behalf\n      of any other Contributor, and only if You agree to indemnify,\n      defend, and hold each Contributor harmless for any liability\n      incurred by, or claims asserted against, such Contributor by reason\n      of your accepting any such warranty or additional liability.\n\n   END OF TERMS AND CONDITIONS\n\n   APPENDIX: How to apply the Apache License to your work.\n\n      To apply the Apache License to your work, attach the following\n      boilerplate notice, with the fields enclosed by brackets \"[]\"\n      replaced with your own identifying information. (Don't include\n      the brackets!)  The text should be enclosed in the appropriate\n      comment syntax for the file format. We also recommend that a\n      file or class name and description of purpose be included on the\n      same \"printed page\" as the copyright notice for easier\n      identification within third-party archives.\n\n   Copyright [yyyy] [name of copyright owner]\n\n   Licensed under the Apache License, Version 2.0 (the \"License\");\n   you may not use this file except in compliance with the License.\n   You may obtain a copy of the License at\n\n       http://www.apache.org/licenses/LICENSE-2.0\n\n   Unless required by applicable law or agreed to in writing, software\n   distributed under the License is distributed on an \"AS IS\" BASIS,\n   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n   See the License for the specific language governing permissions and\n   limitations under the License.\n"
+    }
+  ],
+  "sounds": [
+    {
+      "id": "music_depart",
+      "description": "推车与等人，木质拨弦留出路边声音",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "music_daily",
+      "description": "取水、做饭与工作，有轻微步伐但不催促",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "music_shared",
+      "description": "饭桌和各自安排，温暖而略有错拍",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "music_pages",
+      "description": "读稿与改动，短句之间留下空白",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "music_working",
+      "description": "整理旧片，细小的敲击与疏落拨弦",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "music_shore",
+      "description": "海边的半句，不铺满谈话，不设高潮",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "music_farewell",
+      "description": "要走的一程，出发短动机留下未合拢的尾部",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "amb_room_day",
+      "description": "白天室内，远街与轻电器底声",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "amb_room_night",
+      "description": "深夜室内，克制的空气与遥远低频",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "amb_water_pickup",
+      "description": "物业门外，远车声与塑料箱的空间",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "amb_car_interior",
+      "description": "车内空气和低处车辆共振",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "amb_fruit_stall",
+      "description": "街边摊远交通与袋子，不含可辨认人声",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "amb_restaurant",
+      "description": "小餐馆抽象餐声和模糊交谈气息",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "amb_airport",
+      "description": "航站楼通风与远处脚步提示，不冒充广播录音",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "amb_cycle_path",
+      "description": "树荫路的风与远处车轮",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "amb_publisher",
+      "description": "出版工作角，机器低声与稀少纸页",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "amb_sea",
+      "description": "近远分层浪涌和风，合成海岸声景",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "amb_art_empty",
+      "description": "活动空场的房间声，留出实际动作",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "amb_art_people",
+      "description": "少量人进入空场，零散脚步与无词低语",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "amb_edit_room",
+      "description": "大学剪辑室，电脑风扇与宽房间底声",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "amb_preview",
+      "description": "小型预览处，设备风扇与较远空间",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "amb_studio",
+      "description": "画室，远街与偶发轻工具移动",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "amb_rain_window",
+      "description": "窗外细雨，不带雷声与音乐",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_page",
+      "description": "纸页轻轻翻过",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_select",
+      "description": "手指换到另一个纸签",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_confirm",
+      "description": "决定后轻落的木签",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_object",
+      "description": "指尖轻触物件",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_menu",
+      "description": "薄纸菜单打开",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_back",
+      "description": "菜单合拢",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_film_play",
+      "description": "播放键轻按",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_film_pause",
+      "description": "暂停键轻按",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_plastic_wrap",
+      "description": "箱子外的塑料膜绷紧",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_box_down",
+      "description": "纸箱放到地面",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_bottle_pickup",
+      "description": "拿起塑料水瓶",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_bottle_cap",
+      "description": "拧瓶盖",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_car_door",
+      "description": "车门正常关上",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_trunk",
+      "description": "后备箱关合",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_cup_table",
+      "description": "陶瓷杯放在桌面",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_bag",
+      "description": "手提袋移动",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_cherries",
+      "description": "樱桃轻落袋中",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_cloth",
+      "description": "袖口和衣料摩擦",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_duvet",
+      "description": "被子展开一角",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_footstep",
+      "description": "鞋底正常落地",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_bike_bell",
+      "description": "自行车铃的短响",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_bike_stand",
+      "description": "自行车支架收起",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_zipper",
+      "description": "行李包拉链一程",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_luggage",
+      "description": "拉杆箱短段滚动",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_airport_hint",
+      "description": "航站楼遥远提示音",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_billiard",
+      "description": "两颗台球相碰",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_keyboard",
+      "description": "键盘敲下几个字",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_mouse",
+      "description": "鼠标按下一次",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_cutlery",
+      "description": "餐具轻轻落定",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_chair",
+      "description": "木椅挪开一点",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_item_lift",
+      "description": "从桌上拿起小物",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_item_down",
+      "description": "小物放回桌面",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_pencil",
+      "description": "铅笔划改一小行",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_eraser",
+      "description": "橡皮来回擦一处",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_book_page",
+      "description": "稍厚的书页翻过",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_binder",
+      "description": "样稿夹合上",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_sand_step",
+      "description": "海边沙地脚步",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_wind_cloth",
+      "description": "海风掀动衣角",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_camera",
+      "description": "摄像机按下记录键",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_preview_switch",
+      "description": "切到另一份预览",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_brush",
+      "description": "画笔轻触纸张",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_tool_move",
+      "description": "画材工具轻移",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_dog_collar",
+      "description": "家里的狗活动时项圈轻响",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "sfx_water_pour",
+      "description": "水倒入杯中",
+      "author": "Original game production, local modal synthesis",
+      "license_record": "Original generated composition and synthesis; no third-party recording or melody"
+    },
+    {
+      "id": "film_voice_thought",
+      "description": "我以为她会回来。 Original fiction, not an archival quotation or recording.",
+      "author": "Original fictional text; local Kokoro-82M v1.0 synthesis, preset zm_yunjian",
+      "license_record": "Official Kokoro-82M model repository Apache-2.0; same-repository preset voice coverage is documented as an inference. No Edge service output is used in this delivery.",
+      "license_status": "本机合成；官方模型仓库Apache-2.0，声线目录按同仓库许可使用，覆盖范围与来源推断已记录。"
+    },
+    {
+      "id": "sfx_board_stop",
+      "description": "Concrete wheel rumble stopping; not a recording of historical skateboarding",
+      "author": "Original local physical-texture synthesis",
+      "license_record": "Original generated acoustic approximation"
+    }
+  ]
+}

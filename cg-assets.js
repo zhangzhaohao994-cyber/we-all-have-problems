@@ -1,0 +1,1 @@
+window.PROBLEMS_CG={"cg_debbie_airport":{"image":"assets/cg/cg_debbie_airport_v1.webp"},"cg_kelly_shrimp":{"image":"assets/cg/cg_kelly_shrimp_v1.webp"},"cg_mia_water":{"image":"assets/cg/cg_mia_water_v1.webp"}};
